@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:firephp}-&gt;group('${2:Group Name}');
+	${3:-- Your inside group commands, e.g. fbug_l}
+\$${1}-&gt;groupEnd();</string>
+	<key>name</key>
+	<string>FirePHP group</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fbug_g</string>
+	<key>uuid</key>
+	<string>A4F2141A-3C9D-4E04-A277-670BA06C795C</string>
+</dict>
+</plist>

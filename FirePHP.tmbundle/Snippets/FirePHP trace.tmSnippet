@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:firephp}-&gt;trace('${2:Trace Label}');</string>
+	<key>name</key>
+	<string>FirePHP trace</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fbug_t</string>
+	<key>uuid</key>
+	<string>11E41DA9-A34C-48C1-AF2F-23E97F27C936</string>
+</dict>
+</plist>

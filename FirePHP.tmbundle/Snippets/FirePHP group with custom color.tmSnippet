@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:firephp}-&gt;group('${2:Group Name}',
+					array('Collapsed' =&gt; ${3:true},
+							'Color' =&gt; '#${4:FF00FF}));
+	${5:-- Your inside group commands, e.g. fbug_l}
+\$${1}-&gt;groupEnd();</string>
+	<key>name</key>
+	<string>FirePHP group with custom color</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fbug_g</string>
+	<key>uuid</key>
+	<string>53F3C173-6635-4BF0-875E-8CB8BB78DDE6</string>
+</dict>
+</plist>

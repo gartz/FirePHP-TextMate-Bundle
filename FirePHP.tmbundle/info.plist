@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>DA32A9CD-7693-40BE-BA99-07EE4E9D6216</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>DA32A9CD-7693-40BE-BA99-07EE4E9D6216</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5741AE06-C360-4772-9345-F38F1502254E</string>
+					<string>4652A23C-0205-4CAB-AC4F-40AC20B59D67</string>
+					<string>7419329C-00BD-4720-89E5-9B7F82A77549</string>
+					<string>6F865A27-B6D0-44D2-A7A6-87CAD0AF207A</string>
+					<string>A4F2141A-3C9D-4E04-A277-670BA06C795C</string>
+					<string>53F3C173-6635-4BF0-875E-8CB8BB78DDE6</string>
+					<string>BA16F584-CEDB-4049-AD56-DA6C61B001D8</string>
+					<string>EED58822-EE6B-4A2C-BEB9-AD76B31551AC</string>
+					<string>11E41DA9-A34C-48C1-AF2F-23E97F27C936</string>
+					<string>84DAA515-C678-411D-AA17-984F5C82CAF0</string>
+					<string>DF102C6B-F771-4AB4-A2FF-9AF03A24B6BA</string>
+					<string>50EF591F-47FC-43A0-824D-4638B277760D</string>
+					<string>42912629-8A1F-433C-B4C6-F758D10214D1</string>
+					<string>B63D6C12-9B32-4221-9C3E-249ED2B30633</string>
+				</array>
+				<key>name</key>
+				<string>FirePHP</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Gabriel Giannattasio’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>5741AE06-C360-4772-9345-F38F1502254E</string>
+		<string>6F865A27-B6D0-44D2-A7A6-87CAD0AF207A</string>
+		<string>4652A23C-0205-4CAB-AC4F-40AC20B59D67</string>
+		<string>7419329C-00BD-4720-89E5-9B7F82A77549</string>
+		<string>A4F2141A-3C9D-4E04-A277-670BA06C795C</string>
+		<string>53F3C173-6635-4BF0-875E-8CB8BB78DDE6</string>
+		<string>BA16F584-CEDB-4049-AD56-DA6C61B001D8</string>
+		<string>EED58822-EE6B-4A2C-BEB9-AD76B31551AC</string>
+		<string>11E41DA9-A34C-48C1-AF2F-23E97F27C936</string>
+		<string>84DAA515-C678-411D-AA17-984F5C82CAF0</string>
+		<string>DF102C6B-F771-4AB4-A2FF-9AF03A24B6BA</string>
+		<string>50EF591F-47FC-43A0-824D-4638B277760D</string>
+		<string>42912629-8A1F-433C-B4C6-F758D10214D1</string>
+		<string>B63D6C12-9B32-4221-9C3E-249ED2B30633</string>
+	</array>
+	<key>uuid</key>
+	<string>B48E71B6-4B51-48FA-AB33-5B84C80244A1</string>
+</dict>
+</plist>

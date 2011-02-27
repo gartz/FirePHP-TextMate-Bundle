@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:firephp}-&gt;info('${2:Info Message}');</string>
+	<key>name</key>
+	<string>FirePHP info</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fbug_i</string>
+	<key>uuid</key>
+	<string>50EF591F-47FC-43A0-824D-4638B277760D</string>
+</dict>
+</plist>

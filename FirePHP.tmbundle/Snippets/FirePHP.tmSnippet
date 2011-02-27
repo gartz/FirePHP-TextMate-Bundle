@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require_once('FirePHPCore/FirePHP.class.php');
+\$${1:firephp} = FirePHP::getInstance(true);
+
+\$${1}-&gt;log(\$${2:variable}, '${3:display text}');</string>
+	<key>name</key>
+	<string>FirePHP</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fbug</string>
+	<key>uuid</key>
+	<string>5741AE06-C360-4772-9345-F38F1502254E</string>
+</dict>
+</plist>

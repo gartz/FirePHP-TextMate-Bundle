@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:firephp}-&gt;registerErrorHandler(\$throwErrorExceptions=${2:false});
+\$${1}-&gt;registerExceptionHandler();
+\$${1}-&gt;registerAssertionHandler(
+            $convertAssertionErrorsToExceptions=${3:true},
+            $throwAssertionExceptions=${4:false});</string>
+	<key>name</key>
+	<string>FirePHP registerErrorHandler</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>fbug</string>
+	<key>uuid</key>
+	<string>4652A23C-0205-4CAB-AC4F-40AC20B59D67</string>
+</dict>
+</plist>
